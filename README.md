@@ -12,4 +12,4 @@ Author: Grant Mitchell
 
 License: See Repo
 
-![Preview image](./assets/images/day-scheduler-pic.png)
+![Preview image](./Assets/images/day-scheduler-pic.png)
