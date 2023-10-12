@@ -11,3 +11,5 @@ GITHUB LINK: https://grantmitchell24.github.io/day-scheduler
 Author: Grant Mitchell
 
 License: See Repo
+
+![Preview image](./assets/day-scheduler-shot.png)
