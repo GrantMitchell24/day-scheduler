@@ -18,7 +18,7 @@ function buildPage(){
     else notifyColor="future";
     if (timeID === 0) timeSlot = 12;
     else if (timeID > 12 && timeID < 24){
-      timeSlot =-12;
+      timeSlot -=12;
       timeSlotSuf = "PM";
     }
     var blockLoadID = (timeSlot+timeSlotSuf);
@@ -61,4 +61,3 @@ scheduleLocation.on("click", function(event){
 
 dayDisplay.text(now.format("dddd, MMMM DD"));
 buildPage();
-
